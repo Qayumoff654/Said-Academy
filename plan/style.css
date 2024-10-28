@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ol {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid c;
+    background-color: sandybrown;
+height: 59px;
+
+}
+nav ul {
+    display: flex;
+    gap: 60px;
+    list-style: none;
+}
+nav ul li a {
+    text-decoration: none;
+    font-size: 20px;
+}
+.card1{
+    border: 2px solid black;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 30px;
+   
+  
+}
+.card1{
+    border: 2px solid black;
+  height: 500px;
+  border: none;
+  background-color: rgb(171, 164, 164);
+}
+.img3{
+    width: 200px;
+    height: 200px;
+    background: orange;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin-left: 90px;
+    background-color: rgb(255, 170, 0);
+    border: none;
+
+}
+.card1 button {
+    background-color: rgb(255, 145, 0);
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+}
+.ayiq{
+    display: flex;
+    gap: 160px;
+}
+footer{
+    background-color: rgb(70, 70, 70);
+}
+
+.jop h3{
+    color: aliceblue;
+    font-size: 36px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.jop p{
+    margin-top: 20px;
+    color: aliceblue;
+    margin-left: 20px;
+
+}
+
+.jeck {
+    text-align: center;
+    margin-top: -100px;
+    color: aliceblue;
+    line-height: 30px;
+}
+
+.jeck h3{
+    font-size: 32px;
+}
+
+.jeck_2{
+
+    margin-left: 1100px;
+    
+}
+
+.jeck_2 h2{
+    font-size: 40px;
+    color: aliceblue;
+    margin-top: -20px;
+}
+
+.jeck_2 p{
+    margin-top: 2px;
+    color: aliceblue;
+}
+
+.jeck_2 input{
+    width: 200px;
+    height: 30px;
+    border: none;
+    margin-top: 10px;
+}
+
+.jeck_2 button{
+    width: 100px;
+    height: 30px;
+    border: none;
+    margin-left: -5px;
+    border: none;
+    background-color: orange;
+}

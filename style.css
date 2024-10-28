@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+.ol {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: sans-serif;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid c;
+    background-color: sandybrown;
+height: 59px;
+font-family: sans-serif;
+
+
+}
+nav ul {
+    display: flex;
+    gap: 60px;
+    list-style: none;
+    background-color: sandybrown;
+}
+nav ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+     background-color: sandybrown;
+}
+.polo {
+    margin-top: 250px;
+    font-size: 30px;
+    margin-left: 100px;
+    font-family: sans-serif;
+    gap: 40px;
+
+}
+.polo h6 {
+  
+}
+.polo button {
+    position: absolute;
+    font-size: 30px;
+    margin-top: 30px;
+    background-color: rgb(255, 145, 0);
+    border: 2px solid black;
+    height: 50px;
+    width: 100x;
+    border-radius: 30px;
+    text-decoration: none;
+    list-style: none;
+    color: rgb(0, 0, 0);
+    background: none;
+    text-emphasis-color: red;
+    
+}
+.polo img {
+    margin-left: 900px;
+    margin-top: -237px;
+    border-radius: 20px;
+    font-family: sans-serif;
+}

@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ol {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: sans-serif;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid c;
+    background-color: sandybrown;
+height: 59px;
+font-family: sans-serif;
+
+}
+nav ul {
+    display: flex;
+    gap: 60px;
+    list-style: none;
+}
+nav ul li a {
+    text-decoration: none;
+    font-size: 20px;
+}
+.polo {
+    margin-top: 250px;
+    font-size: 30px;
+    margin-left: 100px;
+    font-family: sans-serif;
+
+}
+.polo button {
+    position: absolute;
+    font-size: 30px;
+    margin-top: 200px;
+    background-color: sandybrown;
+    border: none;
+    height: 50px;
+    width: 1000x;
+    margin-left: 600px;
+    border-radius: 5px;
+
+    
+
+}
+.polo img {
+    margin-left: 80px;
+    margin-top: -150px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    position: absolute;
+}
+.polo h6 {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -10px;
+    font-size: 20px;
+}
+.polo h1 {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -120px;
+}
+.polo h5 {
+    margin-left: 600px;
+font-size: 15px;
+margin-top: 90px;
+position: absolute;
+} 
+footer{
+    background-color: rgb(70, 70, 70);
+}
+
+.jop h3{
+    color: aliceblue;
+    font-size: 36px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.jop p{
+    margin-top: 20px;
+    color: aliceblue;
+    margin-left: 20px;
+
+}
+
+.jeck {
+    text-align: center;
+    margin-top: -100px;
+    color: aliceblue;
+    line-height: 30px;
+}
+
+.jeck h3{
+    font-size: 32px;
+}
+
+.jeck_2{
+margin-top: -150px;
+    margin-left: 1100px;
+    position: absolute;
+    
+}
+
+.jeck_2 h2{
+    font-size: 40px;
+    color: aliceblue;
+    margin-top: -20px;
+}
+
+.jeck_2 p{
+    margin-top: 2px;
+    color: aliceblue;
+}
+
+.jeck_2 input{
+    width: 200px;
+    height: 30px;
+    border: none;
+    margin-top: 10px;
+}
+
+.jeck_2 button{
+    width: 100px;
+    height: 30px;
+    border: none;
+    margin-left: -5px;
+    border: none;
+    background-color: orange;
+}
